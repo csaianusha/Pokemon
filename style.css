@@ -1,0 +1,34 @@
+.table{
+    margin-top: 3vh;
+}
+ul{
+    display: flex;
+    list-style-type:none;
+    padding: 20px;
+    }
+    
+    li{
+    padding: 20px;
+    }
+.active{
+    background: #dddddd;
+    padding: 10px;
+}    
+li{
+    border: 1px solid #dddddd;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    width: 40px;
+    text-align: center;
+}
+.w-100{
+    width: 100%;
+}
+.title{
+    text-align: center;
+    margin-top: 10vh;
+}
+li:hover{
+    background: #bab7b7;
+}
